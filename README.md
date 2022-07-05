@@ -1,3 +1,3 @@
-# Cache workflow Dependencies
+# Caching workflow Dependencies
 
-Caching Dependencies on GitHub Workflows.
+Caching Dependencies to speed up workflows.
