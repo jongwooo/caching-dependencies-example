@@ -1,6 +1,6 @@
 # Caching workflow Dependencies
 
-Caching Dependencies to speed up workflows.
+Examples of caching workflow dependencies using [actions/cache](https://github.com/actions/cache).
 
 ## Node - npm
 
