@@ -31,4 +31,4 @@ jobs:
             {{ runner.os }}-Node-v${{ matrix.node-version }}-Yarn-
 
       - name: Install dependencies
-        run: yarn install
+        run: yarn install --immutable
